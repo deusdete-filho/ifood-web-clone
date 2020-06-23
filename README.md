@@ -12,8 +12,8 @@ Recriando a interface da página inicial do iFood.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
--[HTML]
--[CSS]
+- [HTML]
+- [CSS]
 
 ## :heavy_check_mark: Resultado
 
