@@ -17,6 +17,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :heavy_check_mark: Resultado
 
+
+[Exemplo online(https://epic-torvalds-a22ca1.netlify.app/)
+
+
 <h4 align="center">
     <img alt="Home" title="#home" width="450px" src="github/gif.gif">
 </h4>
